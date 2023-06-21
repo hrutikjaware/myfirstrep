@@ -1,1 +1,2 @@
 First line from hello.txt
+Second line from hello.txt
